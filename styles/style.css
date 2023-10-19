@@ -220,7 +220,7 @@ body {
   font-size: 22px;
   font-style: normal;
   font-weight: 700;
-  line-height: 120%; /* 26.4px */
+  line-height: 120%; 
   text-decoration-line: underline;
   text-transform: uppercase;
 }
@@ -233,7 +233,7 @@ body {
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
-  line-height: 120%; /* 24px */
+  line-height: 120%; 
 }
 
 .card__text2 {
@@ -244,7 +244,7 @@ body {
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
-  line-height: 120%; /* 24px */
+  line-height: 120%; 
 }
 .card__text3 {
   width: 350px;
@@ -254,7 +254,7 @@ body {
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
-  line-height: 120%; /* 24px */
+  line-height: 120%;
   margin-top: 84px;
 }
 
