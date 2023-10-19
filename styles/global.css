@@ -8,7 +8,7 @@ body {
   min-width: 1100px;
   max-width: 1440px;
   margin: auto;
-  font-family: Raleway, sans-serif,'Inter', sans-serif;
+  font-family: Raleway,'Inter','Arial', sans-serif;
 }
 
 h1,
